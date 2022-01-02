@@ -1,3 +1,3 @@
 # colab-atcoder
 
-ブログ用
+[こちらのブログように作成](https://satoshi4s.com/archives/365)
